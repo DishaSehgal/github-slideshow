@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+this ship has sail towards only one way- forward
 Use the left arrow to go back!
